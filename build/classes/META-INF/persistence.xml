@@ -9,15 +9,15 @@
         <class>modelo.basico.Usuario</class>
         <class>modelo.basico.Produto</class>
         <class>modelo.umpraum.Assento</class>
-        <class>modelo.umpraum.Cliente</class> 
-        <class>modelo.umpramuitos.Pedido</class> 
-        <class>modelo.umpramuitos.ItemPedido</class> 
-        <class>modelo.muitospramuitos.Tio</class> 
-        <class>modelo.muitospramuitos.Sobrinho</class> 
-        <class>modelo.muitospramuitos.Filme</class> 
-        <class>modelo.muitospramuitos.Ator</class> 
-        <class>modelo.composicao.Endereco</class> 
-        <class>modelo.composicao.Fornecedor</class> 
+        <class>modelo.umpraum.Cliente</class>
+        <class>modelo.umpramuitos.Pedido</class>
+        <class>modelo.umpramuitos.ItemPedido</class>
+        <class>modelo.muitospramuitos.Tio</class>
+        <class>modelo.muitospramuitos.Sobrinho</class>
+        <class>modelo.muitospramuitos.Filme</class>
+        <class>modelo.muitospramuitos.Ator</class>
+        <class>modelo.composicao.Endereco</class>
+        <class>modelo.composicao.Fornecedor</class>
         <class>modelo.composicao.Funcionario</class>
         <class>modelo.heranca.Animal</class>
         <class>modelo.heranca.Gato</class>
@@ -28,7 +28,7 @@
         	<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
         	<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/curso_java"/>
         	<property name="javax.persistence.jdbc.user" value="root"/>
-        	<property name="javax.persistence.jdbc.password" value="meninozika"/>
+        	<property name="javax.persistence.jdbc.password" value=""/>
         	<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL57Dialect"/>
         	<property name="hibernate.show_sql" value="false"/>
         	<property name="hibernate.format_sql" value="true"/>
